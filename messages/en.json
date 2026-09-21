@@ -1,0 +1,120 @@
+{
+  "HomePageMetaData": {
+    "title": "Al-Qur'an Al-Kareem",
+    "description": "The Holy Quran Application"
+  },
+  "General": {
+    "success": "Success!",
+    "fail": "Fail!",
+    "noData": "no data here!",
+    "searchFor": "search for \"{text}...\""
+  },
+  "Theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
+  },
+  "MainLayout": {
+    "Header": {
+      "title": "Al-Qur'an Al-Kareem",
+      "search": "Search.."
+    },
+    "Navbar": {
+      "home": "Home",
+      "favorites": "Favorites",
+      "bookmarks": "Bookmarks",
+      "settings": "Settings",
+      "statistics": "Statistics",
+      "signOut": "Sign Out"
+    }
+  },
+  "Components": {
+    "ChapterCard": {
+      "reading": "Reading",
+      "learning": "Learning",
+      "chapter": "{name}",
+      "versesCount": "{count} verses",
+      "meccan": "Meccan",
+      "medinan": "Medinan"
+    },
+    "BookmarkedVerseCard": {
+      "bookmarked": "Bookmarked",
+      "chapter": "{name}",
+      "verseNumber": "Verse Number ({number})"
+    }
+  },
+  "SignInPage": {
+    "title": "Sign In",
+    "description": "Enter your email and password to sign in.",
+    "email": "Email",
+    "emailPlaceholder": "example@email.com",
+    "password": "Password",
+    "passwordPlaceholder": "********",
+    "button": "Sign In",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up"
+  },
+  "SignUpPage": {
+    "title": "Sign Up",
+    "description": "Create new account.",
+    "name": "Name",
+    "namePlaceholder": "ahmed abd elaziz",
+    "email": "Email",
+    "emailPlaceholder": "example@email.com",
+    "password": "Password",
+    "passwordPlaceholder": "********",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "********",
+    "button": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "signIn": "Sign In"
+  },
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "ChapterPage": {
+    "sidebarSettings": {
+      "title": "Settings",
+      "readingSettings": "Reading Settings",
+      "audioSettings": "Audio Settings",
+      "appearance": "Appearance",
+      "reader": "Reader",
+      "fontSize": "Font Size",
+      "zoomIn": "Zoom In",
+      "zoomOut": "Zoom Out",
+      "ReaderSelectPlaceHolder": "select the reader",
+      "curVerse": "{chapter} - verse ({verse})",
+      "Readers": {
+        "Basit": "Abdul Basit (Mujawwad)",
+        "Dussary": "Yasser Ad-Dussary",
+        "Muaiqly": "Maher Al-Muaiqly",
+        "Minshawy": "Minshawy (Murattal)",
+        "Hudhaify": "Hudhaify",
+        "Husary": "Husary (Mujawwad)",
+        "ِAyyoub": "Muhammad Ayyoub",
+        "Ajamy": "Ahmed Al-Ajamy"
+      },
+      "Actions": {
+        "play": "Play",
+        "exit": "Exit"
+      }
+    }
+  },
+  "StatisticsPage": {
+    "statistics": "Statistics",
+    "monthlyStatistics": "Monthly Statistics",
+    "monthlyStatisticsLabel": "Complete at least 8 days to open monthly graph.",
+    "minutes": "Minutes",
+    "weekReading": "Reading Rate Every Day",
+    "monthReading": "Reading Rate In The Current Month.",
+    "monthReadingDetails": "The reading rate in the last 30 days.",
+    "dayGoal": "Daily Reading Goal",
+    "dailyGoalStatus": "you achieved {present}% of your goal.",
+    "dayGoalLabel": "The Daily Goal is {goal} Minutes.",
+    "setGoal": "Set Your Reading Goal.",
+    "setGoalLabel": "Select your daily reading goal.",
+    "minutesNumber": "{minutes} Minutes",
+    "save": "Save Changes",
+    "editGoal": "Edit Daily Goal"
+  }
+}

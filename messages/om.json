@@ -1,0 +1,120 @@
+{
+  "HomePageMetaData": {
+    "title": "Qur'aana Qulqulluu",
+    "description": "Aplikeeshinii Quraana Qulqulluu"
+  },
+  "General": {
+    "success": "Milkaa'eera!",
+    "fail": "Hin milkoofne!",
+    "noData": "Odeeffannoon as hin jiru!",
+    "searchFor": "\"{text}...\" barbaadi"
+  },
+  "Theme": {
+    "dark": "Dukkana",
+    "light": "Ifa",
+    "system": "Sirna"
+  },
+  "MainLayout": {
+    "Header": {
+      "title": "Qur'aana Qulqulluu",
+      "search": "Barbaadi.."
+    },
+    "Navbar": {
+      "home": "Mana",
+      "favorites": "Jaallatamoo",
+      "bookmarks": "Mallattoo",
+      "settings": "Qindaa'inoota",
+      "statistics": "Istaatistiksii",
+      "signOut": "Ba'i"
+    }
+  },
+  "Components": {
+    "ChapterCard": {
+      "reading": "Dubbisuu",
+      "learning": "Barachuu",
+      "chapter": "{name}",
+      "versesCount": "Aayoota {count}",
+      "meccan": "Makka",
+      "medinan": "Madiina"
+    },
+    "BookmarkedVerseCard": {
+      "bookmarked": "Mallatteeffame",
+      "chapter": "{name}",
+      "verseNumber": "Lakkoofsa Aayaa ({number})"
+    }
+  },
+  "SignInPage": {
+    "title": "Seeni",
+    "description": "Seenuuf imeelii fi jecha icciitii kee galchi.",
+    "email": "Imeelii",
+    "emailPlaceholder": "example@email.com",
+    "password": "Jecha icciitii",
+    "passwordPlaceholder": "********",
+    "button": "Seeni",
+    "noAccount": "Akkaawuntii hin qabduu?",
+    "signUp": "Galmaa'i"
+  },
+  "SignUpPage": {
+    "title": "Galmaa'i",
+    "description": "Akkaawuntii haaraa uumi.",
+    "name": "Maqaa",
+    "namePlaceholder": "Ahmed Abdulaziz",
+    "email": "Imeelii",
+    "emailPlaceholder": "example@email.com",
+    "password": "Jecha icciitii",
+    "passwordPlaceholder": "********",
+    "confirmPassword": "Jecha icciitii mirkaneessi",
+    "confirmPasswordPlaceholder": "********",
+    "button": "Galmaa'i",
+    "haveAccount": "Akkaawuntii qabdaa?",
+    "signIn": "Seeni"
+  },
+  "HomePage": {
+    "title": "Akkam jirta!"
+  },
+  "ChapterPage": {
+    "sidebarSettings": {
+      "title": "Qindaa'inoota",
+      "readingSettings": "Qindaa'inoota dubbisuu",
+      "audioSettings": "Qindaa'inoota sagalee",
+      "appearance": "Bifa",
+      "reader": "Dubbistuu",
+      "fontSize": "Hagam qabxii",
+      "zoomIn": "Guddisi",
+      "zoomOut": "Xiqqeessi",
+      "ReaderSelectPlaceHolder": "Dubbistuu fili",
+      "curVerse": "{chapter} - aayaa ({verse})",
+      "Readers": {
+        "Basit": "Abdul Basit (Mujawwad)",
+        "Dussary": "Yasser Ad-Dussary",
+        "Muaiqly": "Maher Al-Muaiqly",
+        "Minshawy": "Minshawy (Murattal)",
+        "Hudhaify": "Hudhaify",
+        "Husary": "Husary (Mujawwad)",
+        "ِAyyoub": "Muhammad Ayyoub",
+        "Ajamy": "Ahmed Al-Ajamy"
+      },
+      "Actions": {
+        "play": "Taphi",
+        "exit": "Ba'i"
+      }
+    }
+  },
+  "StatisticsPage": {
+    "statistics": "Istaatistiksii",
+    "monthlyStatistics": "Istaatistiksii ji'a",
+    "monthlyStatisticsLabel": "Giraafii ji'aa banuuf yoo xiqqaate guyyoota 8 xumuri.",
+    "minutes": "Daqiiqota",
+    "weekReading": "Saffisa dubbisuu guyyaa guyyaan",
+    "monthReading": "Saffisa dubbisuu ji'a kana keessatti.",
+    "monthReadingDetails": "Saffisa dubbisuu guyyoota 30 darban keessatti.",
+    "dayGoal": "Kaayyoo dubbisuu guyyaa",
+    "dailyGoalStatus": "Kaayyoo kee {present}% milkaa'eera.",
+    "dayGoalLabel": "Kaayyoon guyyaa {goal} daqiiqaa dha.",
+    "setGoal": "Kaayyoo dubbisuu kee qindeessi.",
+    "setGoalLabel": "Kaayyoo dubbisuu guyyaa kee fili.",
+    "minutesNumber": "Daqiiqaa {minutes}",
+    "save": "Jijjiirama olkaa'i",
+    "editGoal": "Kaayyoo guyyaa gulaali"
+  }
+}

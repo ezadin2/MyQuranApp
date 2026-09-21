@@ -1,0 +1,120 @@
+{
+  "HomePageMetaData": {
+    "title": "ቅዱስ ቁርኣን",
+    "description": "የቅዱስ ቁርኣን መተግበሪያ"
+  },
+  "General": {
+    "success": "ተሳክቷል!",
+    "fail": "አልተሳካም!",
+    "noData": "ምንም መረጃ የለም!",
+    "searchFor": "\"{text}...\" ፈልግ"
+  },
+  "Theme": {
+    "dark": "ጨለማ",
+    "light": "ብርሃን",
+    "system": "የስርዓት"
+  },
+  "MainLayout": {
+    "Header": {
+      "title": "ቅዱስ ቁርኣን",
+      "search": "ፈልግ.."
+    },
+    "Navbar": {
+      "home": "መነሻ",
+      "favorites": "የተወደዱ",
+      "bookmarks": "ምልክቶች",
+      "settings": "ቅንብሮች",
+      "statistics": "ስታትስቲክስ",
+      "signOut": "ውጣ"
+    }
+  },
+  "Components": {
+    "ChapterCard": {
+      "reading": "ንባብ",
+      "learning": "መማር",
+      "chapter": "{name}",
+      "versesCount": "{count} ጥቅሶች",
+      "meccan": "መካ",
+      "medinan": "መድና"
+    },
+    "BookmarkedVerseCard": {
+      "bookmarked": "ተመዝግቧል",
+      "chapter": "{name}",
+      "verseNumber": "የጥቅስ ቁጥር ({number})"
+    }
+  },
+  "SignInPage": {
+    "title": "ግባ",
+    "description": "ለመግባት ኢሜልና የይለፍ ቃልዎን ያስገቡ።",
+    "email": "ኢሜል",
+    "emailPlaceholder": "example@email.com",
+    "password": "የይለፍ ቃል",
+    "passwordPlaceholder": "********",
+    "button": "ግባ",
+    "noAccount": "መለያ የለዎትም?",
+    "signUp": "ተመዝገብ"
+  },
+  "SignUpPage": {
+    "title": "ተመዝገብ",
+    "description": "አዲስ መለያ ፍጠር።",
+    "name": "ስም",
+    "namePlaceholder": "አህመድ አብደልአዚዝ",
+    "email": "ኢሜል",
+    "emailPlaceholder": "example@email.com",
+    "password": "የይለፍ ቃል",
+    "passwordPlaceholder": "********",
+    "confirmPassword": "የይለፍ ቃል አረጋግጥ",
+    "confirmPasswordPlaceholder": "********",
+    "button": "ተመዝገብ",
+    "haveAccount": "መለያ አለዎት?",
+    "signIn": "ግባ"
+  },
+  "HomePage": {
+    "title": "ሰላም!"
+  },
+  "ChapterPage": {
+    "sidebarSettings": {
+      "title": "ቅንብሮች",
+      "readingSettings": "የንባብ ቅንብሮች",
+      "audioSettings": "የድምፅ ቅንብሮች",
+      "appearance": "መልክ",
+      "reader": "አንባቢ",
+      "fontSize": "የፊደል መጠን",
+      "zoomIn": "አጉል",
+      "zoomOut": "አሳንስ",
+      "ReaderSelectPlaceHolder": "አንባቢውን ይምረጡ",
+      "curVerse": "{chapter} - ጥቅስ ({verse})",
+      "Readers": {
+        "Basit": "አብዱል ባሲት (ሙጃዋድ)",
+        "Dussary": "ያሰር አድ-ዱሳሪ",
+        "Muaiqly": "ማህር አል-ሙአይቅሊ",
+        "Minshawy": "ሚንሻዊ (ሙራታል)",
+        "Hudhaify": "ሁደይፊ",
+        "Husary": "ሁሳሪ (ሙጃዋድ)",
+        "ِAyyoub": "ሙሐመድ አይዩብ",
+        "Ajamy": "አህመድ አል-አጃሚ"
+      },
+      "Actions": {
+        "play": "አጫውት",
+        "exit": "ውጣ"
+      }
+    }
+  },
+  "StatisticsPage": {
+    "statistics": "ስታትስቲክስ",
+    "monthlyStatistics": "ወርሃዊ ስታትስቲክስ",
+    "monthlyStatisticsLabel": "ወርሃዊ ግራፍ ለመክፈት ቢያንስ 8 ቀናት ያጠናቅቁ።",
+    "minutes": "ደቂቃዎች",
+    "weekReading": "የየቀን ንባብ መጠን",
+    "monthReading": "በአሁኑ ወር የንባብ መጠን።",
+    "monthReadingDetails": "ባለፉት 30 ቀናት የንባብ መጠን።",
+    "dayGoal": "የዕለት ንባብ ግብ",
+    "dailyGoalStatus": "የግብዎ {present}% አሟልተዋል።",
+    "dayGoalLabel": "የዕለት ግብ {goal} ደቂቃ ነው።",
+    "setGoal": "የንባብ ግብዎን ያዘጋጁ።",
+    "setGoalLabel": "የዕለት ንባብ ግብዎን ይምረጡ።",
+    "minutesNumber": "{minutes} ደቂቃ",
+    "save": "ለውጦችን አስቀምጥ",
+    "editGoal": "የዕለት ግብ አርትዕ"
+  }
+}
