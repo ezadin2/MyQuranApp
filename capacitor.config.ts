@@ -66,7 +66,7 @@ function resolveServerUrl(): string {
     return fromEnv;
   }
 
-  return `https://quraany-app.vercel.app`;
+  return `https://my-quran-app-z889.vercel.app`;
 }
 
 const serverUrl = resolveServerUrl();

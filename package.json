@@ -20,7 +20,7 @@
     "db:push": "drizzle-kit push",
     "db:studio": "drizzle-kit studio",
     "cap:sync": "cap sync",
-    "cap:prod": "cross-env CAPACITOR_SERVER_URL=https://quraany-app.vercel.app cap sync",
+    "cap:prod": "cross-env CAPACITOR_SERVER_URL=https://my-quran-app-z889.vercel.app cap sync",
     "cap:prod:android": "npm run cap:prod && cap open android",
     "cap:open:android": "cap open android",
     "cap:open:ios": "cap open ios",

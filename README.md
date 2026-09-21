@@ -6,7 +6,7 @@
     Quraany  
   </h1>
   <p align="center"><strong>Quran application where you can read, listen, see the tafseer, track your reading and more.</strong></p>
-  <a href="https://quraany-app.vercel.app">
+  <a href="https://my-quran-app-z889.vercel.app">
     <strong>Demo</strong>
   </a> 
 </div>

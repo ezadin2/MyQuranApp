@@ -24,13 +24,13 @@ Default app URL in `capacitor.config.ts`:
 
 1. `CAPACITOR_SERVER_URL` (env, for local testing)
 2. else `NEXT_PUBLIC_APP_URL` from `.env.local`
-3. else `https://quraany-app.vercel.app`
+3. else `https://my-quran-app-z889.vercel.app`
 
 Point production at **your** deployment:
 
 ```bash
-# .env.local
-NEXT_PUBLIC_APP_URL=https://your-app.vercel.app
+# Vercel Environment Variables (not .env.local)
+NEXT_PUBLIC_APP_URL=https://my-quran-app-z889.vercel.app
 ```
 
 ## Run on Android (local dev)
@@ -69,7 +69,7 @@ Manual override: `CAPACITOR_SERVER_URL=http://192.168.1.10:3000 npm run cap:sync
 
 ## Production mobile build
 
-The phone app loads a **live HTTPS site** (not your PC). Default: `https://quraany-app.vercel.app`.
+The phone app loads a **live HTTPS site** (not your PC). Default: `https://my-quran-app-z889.vercel.app`.
 
 Do this from the repo root (`nextjs-quran-app` folder that contains this file’s parent `package.json`):
 
@@ -102,7 +102,7 @@ The phone needs internet. Bookmarks/favorites stay on the device; Quran pages co
 | Script | Description |
 |--------|-------------|
 | `npm run cap:sync` | Copy web assets + update native projects |
-| `npm run cap:prod` | Sync Capacitor to `https://quraany-app.vercel.app` |
+| `npm run cap:prod` | Sync Capacitor to `https://my-quran-app-z889.vercel.app` |
 | `npm run cap:prod:android` | Production sync + open Android Studio |
 | `npm run cap:open:android` | Open Android Studio |
 | `npm run cap:open:ios` | Open Xcode (macOS only) |
