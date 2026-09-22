@@ -45,3 +45,6 @@ next-env.d.ts
 # capacitor (optional: remove these lines if you commit android/ios)
 # /android
 # /ios
+
+.vercel
+.env*
